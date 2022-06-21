@@ -1,13 +1,14 @@
-- 👋 Hi, I’m @Progr-mmerjunior
+- 👋 Hi, I’m Brian
 - 👀 I’m interested in Coding in java, javascript, flutter and much moore
 - 🙄😮Dont forget Python
 - 🌱 I’m currently learning Java concepts and Bsc. in Computer Science
 - 💞️ I’m looking to collaborate on Hash code and real life code challenges
 - 📫 How to reach me :-
--                   Instagram @Trench__kidd.ke
+-                   Instagram @tyler_swtf
 -                   Facebook @Trench__kidd.ke
--                   Twitter N/A
-
+-                   Twitter @cren_shaww
+-                   Email juniorprogrammer09@gmail.com
+-   💯🔥🥳😤🤬🤐Lets Rock
 <!---
 Progr-mmerjunior/Progr-mmerjunior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
