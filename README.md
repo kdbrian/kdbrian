@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Brian
 - 👀 I’m interested in Coding in java, javascript, flutter and much moore
 - 🙄😮Dont forget Python
-- 🌱 I’m currently learning Java concepts and Bsc. in Computer Science
-- 💞️ I’m looking to collaborate on Hash code and real life code challenges
+- 🌱 I’m currently learning Java concepts, the MERN full stack 🤩🤩🤩 and Bsc. in Computer Science
+- 💞️ I’m looking to collaborate on Hash code and real life problem solving
 - 📫 How to reach me :-
 -                   Instagram @tyler_swtf
 -                   Facebook @Trench__kidd.ke
