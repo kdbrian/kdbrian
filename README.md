@@ -24,9 +24,7 @@
 - 🌱 I’m currently learning Java concepts, the MERN full stack 🤩🤩🤩 and Bsc. in Computer Science
 - 💞️ I’m looking to collaborate on Hash code and real life problem solving
 - 📫 How to reach me :-
-<div>
-- <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="twitter" alt="twitter" width="40" height="40"/>&nbsp;@cren_shaww
-</div>
+<br>
 -  juniorprogrammer09@gmail.com<br>
  :star: €<br>
 - 💯🔥🥳😤🤬🤐Lets Rock
