@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Brian
-- 👀 I’m interested in Coding in
+- ### :hand: Hi, I’m Brian
+- ### :fire: I’m interested in Coding in
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp;
 </div>
 
 <div>
@@ -15,18 +18,18 @@
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" alt="flutter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="firebase" alt="firebase" width="40" height="40"/>&nbsp;
 </div>
-and much moore
-- 🙄😮Dont forget Python
+- and much moore.....<br>
 - 🌱 I’m currently learning Java concepts, the MERN full stack 🤩🤩🤩 and Bsc. in Computer Science
 - 💞️ I’m looking to collaborate on Hash code and real life problem solving
 - 📫 How to reach me :-
-
-
--Twitter @cren_shaww
--Email juniorprogrammer09@gmail.com
--   💯🔥🥳😤🤬🤐Lets Rock
----
+<div>
+- <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="twitter" alt="twitter" width="40" height="40"/>&nbsp;@cren_shaww
+</div>
+-  juniorprogrammer09@gmail.com<br>
+ :star: €<br>
+- 💯🔥🥳😤🤬🤐Lets Rock
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=la-mello&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
