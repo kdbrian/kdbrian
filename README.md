@@ -1,5 +1,11 @@
 - 👋 Hi, I’m Brian
-- 👀 I’m interested in Coding in java <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;, javascript, flutter and much moore
+- 👀 I’m interested in Coding in
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" alt="flutter" width="40" height="40"/>&nbsp;
+</div>
+and much moore
 - 🙄😮Dont forget Python
 - 🌱 I’m currently learning Java concepts, the MERN full stack 🤩🤩🤩 and Bsc. in Computer Science
 - 💞️ I’m looking to collaborate on Hash code and real life problem solving
