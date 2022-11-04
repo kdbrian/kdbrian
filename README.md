@@ -21,14 +21,16 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="firebase" alt="firebase" width="40" height="40"/>&nbsp;
 </div>
 - and much moore.....<br>
-- 🌱 I’m currently learning Java concepts, the MERN full stack 🤩🤩🤩 and Bsc. in Computer Science
-- 💞️ I’m looking to collaborate on Hash code and real life problem solving
-- 📫 How to reach me :-
+- <h4>🌱 I’m currently learning Java concepts, the MERN full stack 🤩🤩🤩 and Bsc. in Computer Science</h4>
+- <h4>💞️ I’m looking to collaborate on Hash code and real life problem solving</h4>
+- <h4>📫 How to reach me :-</h4>
 <br>
--  juniorprogrammer09@gmail.com<br>
- :star: €<br>
-- 💯🔥🥳😤🤬🤐Lets Rock
-
+-  <a href="mailto:juniorprogrammer09@gmail.com">E-Mail💌</a>
+-  <code>Twitter🦅🐦 : powergrid09 </code>
+-  <br>
+ <b>star:</b><br>
+- <center><code>💯🔥🥳😤🤬🤐Lets Rock</code></center>
+<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=la-mello&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :fire: My Stats :
