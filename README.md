@@ -29,8 +29,9 @@
 -  Twitter🦅🐦 : powergrid09 </code>
 -  <br>
  <b>star:</b><br>
-- <center><code>💯🔥🥳😤🤬🤐Lets Rock</code></center>
+-<code>💯🔥🥳😤🤬🤐Lets Rock</code>
 <br><br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=la-mello&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :fire: My Stats :
