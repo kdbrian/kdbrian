@@ -25,8 +25,8 @@
 - <h4>💞️ I’m looking to collaborate on Hash code and real life problem solving</h4>
 - <h4>📫 How to reach me :-</h4>
 <br>
--  <a href="mailto:juniorprogrammer09@gmail.com">E-Mail💌</a>
--  <code>Twitter🦅🐦 : powergrid09 </code>
+-  <code><a href="mailto:juniorprogrammer09@gmail.com" style="text-decoration:none; text-color:black;">E-Mail💌</a>
+-  Twitter🦅🐦 : powergrid09 </code>
 -  <br>
  <b>star:</b><br>
 - <center><code>💯🔥🥳😤🤬🤐Lets Rock</code></center>
