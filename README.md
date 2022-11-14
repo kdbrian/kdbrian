@@ -77,7 +77,6 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=La-mello&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideNums=2EF7FA)](https://git.io/streak-stats)
 
-  
 ### :fire: Visitor Count :
 <!-- ![Visitor Count](https://profile-counter.glitch.me/la-mello/count.svg) -->
  <img src="https://profile-counter.glitch.me/la-mello/count.svg" alt="visitor count" />
