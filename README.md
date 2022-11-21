@@ -53,7 +53,7 @@
 ## I’m currently learning Java concepts, the MERN full stack 🤩🤩🤩 and Bsc. in Computer Science</h4>
 ## 💞️ I’m looking to collaborate on Hash code and real life problem solving</h4>
 
-## :Contact 📫
+## :Contacts 📫
 <div> 
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/powergrid09" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
