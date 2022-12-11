@@ -62,7 +62,7 @@
 </div>
 <br><hr>
 <div>
-  <a href="https://github.com/eagrundy">
+  <a href="https://github.com/la-mello">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=la-mello&layout=compact&langs_count=16&theme=dracula"/>
     <br><br>
     <hr>
