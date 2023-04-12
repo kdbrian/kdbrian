@@ -69,20 +69,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=junrdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junrdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Snake animation.](https://github.com/la-mello/la-mello/blob/output/github-contribution-grid-snake.svg)
+![Snake animation.](https://github.com/junrdev/junrdev/blob/output/github-contribution-grid-snake.svg)
 
-  
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=junrdev&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideNums=2EF7FA)](https://git.io/streak-stats)
+<!-- ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=junrdev&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideNums=2EF7FA)](https://git.io/streak-stats) -->
 
 ### :fire: Visitor Count :
-<!-- ![Visitor Count](https://profile-counter.glitch.me/la-mello/count.svg) -->
  <img src="https://profile-counter.glitch.me/la-mello/count.svg" alt="visitor count" />
-<!---
-Progr-mmerjunior/Progr-mmerjunior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-<code>Jus to stay on track of you lovely humans :love:</code>
+<code>Jus to stay on track of you nerds : blue_heart:</code>
