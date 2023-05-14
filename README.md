@@ -51,7 +51,7 @@
 
 ...<br>
 ## I’m currently learning Java concepts, the MERN full stack 🤩🤩🤩 and Bsc. in Computer Science</h4>
-## 💞️ I’m looking to collaborate on Hash code and real life problem solving</h4>
+## 💞️ I’m looking to collaborate in real life problem solving</h4>
 
 ## :Contacts 📫
 <div> 
@@ -78,4 +78,4 @@
 ### :fire: Visitor Count :
  <img src="https://profile-counter.glitch.me/la-mello/count.svg" alt="visitor count" />
 
-<code>Jus to stay on track of you nerds : blue_heart:</code>
+<!-- <code>Jus to stay on track of you nerds : blue_heart:</code> -->
