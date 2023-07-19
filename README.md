@@ -52,15 +52,15 @@
 
 <br>
 📎  I’m an advance level android developer (java/kotlin and xml)<br>
-###  I’m an advance level android developer (java/kotlin and xml)<br>
-###  I’m an advance Firebase consumer working with 90 % of the tools it offers<br>
+📎  I’m an advance level android developer (java/kotlin and xml)<br>
+📎  I’m an advance Firebase consumer working with 90 % of the tools it offers<br>
 -- firebase is preference i always choose everyday due to its flexibility and simplicity.<br>
-###  I’m an advance level backend developer working with NodeJs and Spring Boot<br>
-###  GraphQl is my next preference after REST APIs.<br>
-###  I work with Amazon Web Services in my daily projects consuming a different set each time and getting to know it better<br>
-###  I’m an intermediate level android developer(jetpack compose and kotlin)<br>
-###  I’m currently learning Advanced Spring boot concepts<br>
-###  💞️ I’m looking to collaborate in real life problem solving<br>
+📎  I’m an advance level backend developer working with NodeJs and Spring Boot<br>
+📎  GraphQl is my next preference after REST APIs.<br>
+📎  I work with Amazon Web Services in my daily projects consuming a different set each time and getting to know it better<br>
+📎  I’m an intermediate level android developer(jetpack compose and kotlin)<br>
+📎  I’m currently learning Advanced Spring boot concepts<br>
+📎  💞️ I’m looking to collaborate in real life problem solving<br>
 
 ## :Contacts 📫
 <div> 
