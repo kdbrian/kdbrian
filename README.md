@@ -54,6 +54,7 @@
 📎  I work with Amazon Web Services in my daily projects consuming a different set each time and getting to know it better<br>
 📎  I’m an intermediate level android developer(jetpack compose and kotlin)<br>
 📎  I’m currently learning Advanced Spring boot concepts<br>
+📎  I have knowledge of interacted with and used design tools such Figma, Adobe Illustrator and Dribble.<br>
 📎  💞️ I’m looking to collaborate in real life problem solving<br>
 
 ## :Contacts 📫
