@@ -42,6 +42,8 @@
   <img height="40" align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="graphql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="graphql">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img  align="center" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="30"/>&nbsp;&nbsp;&nbsp;
 </div>
 
 <br>
