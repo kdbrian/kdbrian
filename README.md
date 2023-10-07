@@ -63,25 +63,17 @@
 
 ## :Contacts 📫
 <div> 
-<!--   <a href="https://www.linkedin.com/in/brian-kidiga-563a96244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
-<!--   <a href="https://twitter.com/powergrid09" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-<!--   <a href="https://instagram.com/realbrian.yrbn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=green" target="_blank"></a> -->
   <a href = "mailto:juniorprogrammer09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <br><hr>
-<div>
+<!-- <div>
   <a href="https://github.com/junrdev">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junrdev&layout=compact&langs_count=16&theme=dracula"/>
     <br><br>
     <hr>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=junrdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
-
-
-<!--![Snake animation.](https://github.com/junrdev/junrdev/blob/output/github-contribution-grid-snake.svg)
-
- ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=junrdev&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideNums=2EF7FA)](https://git.io/streak-stats) -->
+ -->
 
 ### :fire: Visitor Count :
  <img src="https://profile-counter.glitch.me/la-mello/count.svg" alt="visitor count" />
