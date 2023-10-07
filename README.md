@@ -65,15 +65,7 @@
 <div> 
   <a href = "mailto:juniorprogrammer09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-<br><hr>
-<!-- <div>
-  <a href="https://github.com/junrdev">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junrdev&layout=compact&langs_count=16&theme=dracula"/>
-    <br><br>
-    <hr>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=junrdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
- -->
+<hr>
 
 ### :fire: Visitor Count :
  <img src="https://profile-counter.glitch.me/la-mello/count.svg" alt="visitor count" />
