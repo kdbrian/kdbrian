@@ -1,7 +1,6 @@
 
-![Uploading LinkedIn cover - 1 (1).png…]()
+![LinkedIn cover - 1 (1)](https://github.com/junrdev/junrdev/assets/98683954/0877431d-1264-4037-8407-ca22e64a7d40)
 
-### :hand: Hi, I’m Brian
 ### :fire: I’m interested in Coding in
 <div style="display: inline_block">
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
