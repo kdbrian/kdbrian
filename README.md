@@ -1,3 +1,6 @@
+
+![Uploading LinkedIn cover - 1 (1).png…]()
+
 ### :hand: Hi, I’m Brian
 ### :fire: I’m interested in Coding in
 <div style="display: inline_block">
