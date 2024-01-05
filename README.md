@@ -49,8 +49,8 @@
 </div>
 
 <br>
-📎  Java is my Major 😆<br>
-📎  I’m an advance level android developer (java/kotlin and xml)<br>
+📎  Java is my Major 😆. Check the comments<br>
+<!-- 📎  I’m an advance level android developer (java/kotlin and xml)<br>
 📎  I’m an advance Firebase consumer working with 90 % of the tools it offers<br>
 -- firebase is preference i always choose everyday due to its flexibility and simplicity.<br>
 📎  I’m an advance level backend developer working with NodeJs and Spring Boot<br>
@@ -59,7 +59,7 @@
 📎  I’m an intermediate level android developer(jetpack compose and kotlin)<br>
 📎  I’m currently learning Advanced Spring boot concepts<br>
 📎  I have knowledge of interacted with and used design tools such Figma, Adobe Illustrator and Dribble.<br>
-📎  💞️ I’m looking to collaborate in real life problem solving<br>
+📎  💞️ I’m looking to collaborate in real life problem solving<br> -->
 
 ## :Contacts 📫
 <div> 
