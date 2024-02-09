@@ -1,4 +1,4 @@
-
+<!--
 ![LinkedIn cover - 1 (1)](https://github.com/junrdev/junrdev/assets/98683954/0877431d-1264-4037-8407-ca22e64a7d40)
 
 ### :fire: I’m interested in Coding in
@@ -47,9 +47,8 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img  align="center" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="30"/>&nbsp;&nbsp;&nbsp;
 </div>
-
-<br>
-📎  Java is my Major 😆. Check the comments<br>
+-->
+# I hope this does it
 <!-- 📎  I’m an advance level android developer (java/kotlin and xml)<br>
 📎  I’m an advance Firebase consumer working with 90 % of the tools it offers<br>
 -- firebase is preference i always choose everyday due to its flexibility and simplicity.<br>
@@ -60,7 +59,7 @@
 📎  I’m currently learning Advanced Spring boot concepts<br>
 📎  I have knowledge of interacted with and used design tools such Figma, Adobe Illustrator and Dribble.<br>
 📎  💞️ I’m looking to collaborate in real life problem solving<br> -->
-
+<!--
 ## :Contacts 📫
 <div> 
   <a href = "mailto:juniorprogrammer09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -71,4 +70,4 @@
 ### :fire: Visitor Count :
  <img src="https://profile-counter.glitch.me/la-mello/count.svg" alt="visitor count" />
 
-<!-- <code>Jus to stay on track of you nerds : blue_heart:</code> -->
+-->
