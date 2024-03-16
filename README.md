@@ -48,8 +48,8 @@
 <img  align="center" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="30"/>&nbsp;&nbsp;&nbsp;
 </div>
 -->
-# I hope this does it
-# listen to my tech [Podcasts](https://t.me/bkpodcasts)
+# Building solutions
+#  [🎧:](https://t.me/bkpodcasts)
 <!-- 📎  I’m an advance level android developer (java/kotlin and xml)<br>
 📎  I’m an advance Firebase consumer working with 90 % of the tools it offers<br>
 -- firebase is preference i always choose everyday due to its flexibility and simplicity.<br>
