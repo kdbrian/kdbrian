@@ -49,7 +49,7 @@
 </div>
 -->
 # Building solutions
-#  [🎧:](https://t.me/bkpodcasts)
+# [🎧:](https://t.me/bkpodcasts)
 <!-- 📎  I’m an advance level android developer (java/kotlin and xml)<br>
 📎  I’m an advance Firebase consumer working with 90 % of the tools it offers<br>
 -- firebase is preference i always choose everyday due to its flexibility and simplicity.<br>
