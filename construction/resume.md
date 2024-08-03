@@ -2,7 +2,7 @@
 **Email:** [Brianskidga09@gmail.com](mailto:Brianskidga09@gmail.com)
 
 ## Career Objective
-Passionate and dedicated software developer with hands-on experience in Android and web development. Seeking to leverage my skills and knowledge to create innovative solutions that address real-world challenges. Eager to join a dynamic team and contribute to impactful projects in software development.
+Aspiring to be a Passionate and dedicated software developer. Seeking to leverage my skills and knowledge to create innovative solutions that address real-world challenges, having fun too. Eager to join a dynamic team and contribute to impactful projects in software development.
 
 ## Experience
 **Intern, Graph Technologies**  
