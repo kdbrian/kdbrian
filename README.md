@@ -53,7 +53,8 @@ Coding for fun with <img src="https://github.com/devicons/devicon/blob/master/ic
 # [🎧:](https://t.me/bkpodcasts) <img src="https://github.com/user-attachments/assets/bbc472e8-9901-41fa-babd-b44720d05ccc" height="40" width="40" style="margin:0 auto;" />
 
 # AOB
-- <a href="https://github.com/kdbrian/kdbrian/blob/main/construction/resume.md">My resume.</a> 
+- <a href="https://github.com/kdbrian/kdbrian/blob/main/construction/resume.md">My resume.</a>. Download a copy<a href="https://github.com/kdbrian/kdbrian/blob/main/construction/Document%2027.pdf">⏬</a>
+- <img src="https://github.com/kdbrian/kdbrian/blob/main/icons/placeholder%20(1).png" height="40" width="40" style="margin:0 auto;" />. Prefered location <code>127.0.0.1</code>
 <!-- 📎  I’m an advance level android developer (java/kotlin and xml)<br>
 📎  I’m an advance Firebase consumer working with 90 % of the tools it offers<br>
 -- firebase is preference i always choose everyday due to its flexibility and simplicity.<br>
