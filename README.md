@@ -48,7 +48,7 @@
 <img  align="center" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="30"/>&nbsp;&nbsp;&nbsp;
 </div>
 -->
-# Building solutions
+# Coding for fun
 # [🎧:](https://t.me/bkpodcasts)
 <!-- 📎  I’m an advance level android developer (java/kotlin and xml)<br>
 📎  I’m an advance Firebase consumer working with 90 % of the tools it offers<br>
