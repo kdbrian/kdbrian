@@ -48,7 +48,8 @@
 <img  align="center" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="30"/>&nbsp;&nbsp;&nbsp;
 </div>
 -->
-# Coding for fun
+
+Coding for fun with <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;, <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp;,<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;,<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;, <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;and <img src="https://profile-counter.glitch.me/la-mello/count.svg" alt="visitor count" /> others...
 # [🎧:](https://t.me/bkpodcasts)
 <!-- 📎  I’m an advance level android developer (java/kotlin and xml)<br>
 📎  I’m an advance Firebase consumer working with 90 % of the tools it offers<br>
@@ -68,9 +69,4 @@
 </div>
 <hr>
 -->                    
-  
-### :fire: Visitor Count :
- <img src="https://profile-counter.glitch.me/la-mello/count.svg" alt="visitor count" />
 
-                    
-  
