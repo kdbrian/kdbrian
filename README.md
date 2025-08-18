@@ -3,11 +3,6 @@
 - Looking forward to launch a startup later this year. Currently gathering a team for the MVP.
 - Still learning Android & Backend development with the touch of AI.
 
-
-### Career Objective
-I don't plan to write code my entire life, especially with recent trends in AI and ML. I aspire to extend my career far and wide to become a Site Reliability Engineer at a well established enterprise. Everyday am moving 1% ahead of 
-in my progress. I foresee a world full of challenges that only humans percieve but with the help of modern tools we are able to tackle them with ease and fast.
-
 ## Learning &middot; Building &middot; Solving
 
 ### Ask for
