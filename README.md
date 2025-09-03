@@ -1,4 +1,6 @@
 ## Am currently
+### Building an android app to streamline water business.
+<!--
 - Working on a solution targetting Travellers, drivers and car owners in general. Live at [Tow](https://incomparable-duckanoo-71e423.netlify.app/)
 - Looking forward to launch a startup later this year. Currently gathering a team for the MVP.
 - Still learning Android & Backend development with the touch of AI.
@@ -33,7 +35,7 @@
 ### Contacts
 [linked In](https://www.linkedin.com/in/brian-kidiga-b5ab9b357/) | 📧 [Outlook](kidigabrian@outlook.com) | 🏘 Prefered Work from Home | BBO
 
-<!-- I hate Ghosting recruiters, if one bye 👋 | If I didn't make it tell me, no hard feelings. -->
+I hate Ghosting recruiters, if one bye 👋 | If I didn't make it tell me, no hard feelings.
 
 ## When am not coding am : 
 - Documenting staff at [Notion]()
@@ -41,6 +43,6 @@
 - Browsing [GitHub]()
   
 [![wakatime](https://wakatime.com/badge/user/2d939469-d3f7-473e-acba-924b3edd60b4.svg)](https://wakatime.com/@2d939469-d3f7-473e-acba-924b3edd60b4)
-
-# Alot of
+ -->
+#### Alot of
 ![Fck Around and Find Out Design File - SVG File - CNC Routing - CNC Plotting](https://github.com/user-attachments/assets/4073e7fa-fbd8-4598-9074-c2509023ab37)
