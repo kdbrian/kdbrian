@@ -1,5 +1,4 @@
 ## Am currently
-### Building an android app to streamline water business.
 <!--
 - Working on a solution targetting Travellers, drivers and car owners in general. Live at [Tow](https://incomparable-duckanoo-71e423.netlify.app/)
 - Looking forward to launch a startup later this year. Currently gathering a team for the MVP.
