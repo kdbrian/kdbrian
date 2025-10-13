@@ -21,6 +21,13 @@
   - Design collab
   - Wireframes
   - Figma/Canva
+ 
+- Tools
+   - Android Studio
+   - Intellij
+   - Jupyter Notebooks
+   - Vscode
+   - more tools
 <!--
 ### I have worked with
 - Smart clients so far to publish apps on playstore.
