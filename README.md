@@ -28,21 +28,12 @@
    - Jupyter Notebooks
    - Vscode
    - more tools
+ 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <!--
-### I have worked with
-- Smart clients so far to publish apps on playstore.
-- Startup using MedTek, for booking appointments.
-- Backend developers as a solo android developer.
-- Frustrating teams
-- Logistics company to establish their brand
-- More often as a solo developer.
-
-
-### Contacts
-[linked In](https://www.linkedin.com/in/brian-kidiga-b5ab9b357/) | 📧 [Outlook](kidigabrian@outlook.com) | 🏘 Prefered Work from Home | BBO
-
-I hate Ghosting recruiters, if one bye 👋 | If I didn't make it tell me, no hard feelings.
-
 ## When am not coding am : 
 - Documenting staff at [Notion]()
 - Articles in [Medium]()
