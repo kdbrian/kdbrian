@@ -30,6 +30,15 @@
    - more tools
  
 <!--START_SECTION:waka-->
+
+```txt
+Kotlin            20 hrs 39 mins  ██████████████▓░░░░░░░░░░   58.45 %
+Python            7 hrs 40 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.71 %
+JavaScript        3 hrs 55 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
+RMarkdown         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+XML               36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+```
+
 <!--END_SECTION:waka-->
 
 
