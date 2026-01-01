@@ -17,6 +17,10 @@
 | **UI / UX** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="20"/> Figma • Canva • [Eraser](https://app.eraser.io/) |
 | **Tools** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="20"/> Android Studio • <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="20"/> IntelliJ IDEA • <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="20"/> VS Code • <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="20"/> Notion |
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--START_SECTION:waka-->
 
 ```txt
