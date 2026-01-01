@@ -18,7 +18,7 @@
 | **Tools** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="20"/> Android Studio • <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="20"/> IntelliJ IDEA • <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="20"/> VS Code • <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="20"/> Notion |
 
 # Blog posts
-- ![Clean Rick and Morty](https://medium.com/@juniorprogrammer09/rick-and-morty-the-clean-way-fbcaca36f8f8")
+- [Clean Rick and Morty]("https://medium.com/@juniorprogrammer09/rick-and-morty-the-clean-way-fbcaca36f8f8")
 
 <!--START_SECTION:waka-->
 
