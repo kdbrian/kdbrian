@@ -1,4 +1,4 @@
-## Learning  by Building &middot;
+## If you need a sleek app &middot; Am your vessel.
 
 ### What I do
 
