@@ -1,5 +1,3 @@
-## If you need a sleek app &middot; Am your vessel.
-
 ### What I do
 
 | Category | Technologies |
@@ -35,3 +33,4 @@ YAML              31 mins               ▓░░░░░░░░░░░░�
 [![wakatime](https://wakatime.com/badge/user/2d939469-d3f7-473e-acba-924b3edd60b4.svg)](https://wakatime.com/@2d939469-d3f7-473e-acba-924b3edd60b4)
  
 
+Ready to start ? [Visit](https://kdbrian.github.io/expense.html) then [Mailto](juniorprogrammer09@gmail.com)
