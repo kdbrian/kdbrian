@@ -5,7 +5,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/2d939469-d3f7-473e-acba-924b3edd60b4.svg)](https://wakatime.com/@2d939469-d3f7-473e-acba-924b3edd60b4)
 [![Medium](https://img.shields.io/badge/Medium-@juniorprogrammer09-black?logo=medium&logoColor=white)](https://medium.com/@juniorprogrammer09)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?logo=githubpages&logoColor=white)](https://kdbrian.github.io/expense.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?logo=githubpages&logoColor=white)](https://kdbrian.github.io/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-red?logo=gmail&logoColor=white)](mailto:juniorprogrammer09@gmail.com)
 
 </div>
@@ -90,7 +90,7 @@ Properties        12 mins               ░░░░░░░░░░░░░�
 
 *Open to collaborations · Let's build something great*
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Visit%20Portfolio-blueviolet?style=for-the-badge)](https://kdbrian.github.io/expense.html)
+[![Portfolio](https://img.shields.io/badge/🌐%20Visit%20Portfolio-blueviolet?style=for-the-badge)](https://kdbrian.github.io/)
 [![Email](https://img.shields.io/badge/📬%20Get%20In%20Touch-red?style=for-the-badge)](mailto:juniorprogrammer09@gmail.com)
 
 </div>
