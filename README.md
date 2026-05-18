@@ -77,11 +77,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            48 hrs 12 mins        ██████████████████████▓░░   90.55 %
-GraphQL           3 hrs 23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
-TOML              43 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Java Properties   25 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-SqlDelight        20 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Kotlin            49 hrs 29 mins        ██████████████████████▓░░   90.55 %
+GraphQL           4 hrs 13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+Java Properties   24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+TOML              23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+SqlDelight        4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
