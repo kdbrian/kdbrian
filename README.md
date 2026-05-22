@@ -1,7 +1,7 @@
 <div align="center">
 
 # kdbrian
-### Mobile-first engineer · Backend builder · Technical writer
+### Mobile-first Fullstack Developer
 
 [![wakatime](https://wakatime.com/badge/user/2d939469-d3f7-473e-acba-924b3edd60b4.svg)](https://wakatime.com/@2d939469-d3f7-473e-acba-924b3edd60b4)
 [![Medium](https://img.shields.io/badge/Medium-@juniorprogrammer09-black?logo=medium&logoColor=white)](https://medium.com/@juniorprogrammer09)
