@@ -90,7 +90,8 @@ SQL               22 mins               ░░░░░░░░░░░░░�
 
 <div align="center">
 
-*Open to collaborations · Let's build something great*
+*Building castles in the air, but with code*
+
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Visit%20Portfolio-blueviolet?style=for-the-badge)](https://kdbrian.github.io/)
 [![Email](https://img.shields.io/badge/📬%20Get%20In%20Touch-red?style=for-the-badge)](mailto:juniorprogrammer09@gmail.com)
