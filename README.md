@@ -77,11 +77,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            1 hr 45 mins          ██████████████████░░░░░░░   71.39 %
-GraphQL           34 mins               ██████░░░░░░░░░░░░░░░░░░░   23.57 %
-Java Properties   5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-Properties        1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-TOML              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
