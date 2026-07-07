@@ -77,11 +77,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            14 hrs 40 mins        ███████████████████████░░   91.84 %
-GraphQL           38 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
-TOML              16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-Java Properties   7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-GitIgnore file    6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Kotlin            5 hrs 17 mins         ████████████████████▓░░░░   82.70 %
+Java              29 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+Java Properties   10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Markdown          9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+GitIgnore file    6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 ```
 
 <!--END_SECTION:waka-->
